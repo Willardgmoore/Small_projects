@@ -1,0 +1,11 @@
+.star{
+	color: blue;
+}
+
+.star:hover { 
+    color: red;
+}
+
+.number:hover{
+
+}
